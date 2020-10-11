@@ -1,0 +1,1 @@
+setInterval(t=>{t.setDate(t.getDate()+1),localStorage.setItem("https://instagram.com/anajulia_a.o",t),document.write(t.toLocaleDateString() + "<br>")},6e4,new Date(localStorage.getItem("https://instagram.com/anajulia_a.o") || "01/01/2020"));
